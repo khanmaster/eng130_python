@@ -1,4 +1,22 @@
 # Python Installation Instructions
+## Pycharm set up
+
+### Elivator's Pitch
+- it's an introduction of yourself should include x y z
+
+
+### What is Agile
+-
+-
+-
+-
+-
+
+### What is Scrum
+-
+-
+
+
 
 
 * Installing Python & pip
